@@ -1,4 +1,4 @@
-# DAAP - DEtection of Android Anti-Patterns
+# DAAP - Detection of Android Anti-Patterns
 A tool for the detection of Android Anti-Patterns or Bad Smells.
 Clone or download repository into Android Studio or intellij idea.
 Run DAP.Java as it is the main GUI Screen.
