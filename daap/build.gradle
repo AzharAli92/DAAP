@@ -1,0 +1,11 @@
+apply plugin: 'java-library'
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation 'com.github.javaparser:javaparser-core:3.4.1'
+    implementation 'org.apache.poi:poi-ooxml:3.9'
+}
+
+sourceCompatibility = "8"
+targetCompatibility = "8"
+
