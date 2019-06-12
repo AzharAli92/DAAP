@@ -8,3 +8,5 @@ The results will be shown on customized consle at bottom of the screen which con
 calss name and its path. 
 At the end the total count of detected anti-patterns will be shown.
 You can rest the preferences using reset button in order to choose new Android project.
+
+https://www.dropbox.com/s/940v432uu6hfsez/daap-new.PNG?dl=0
