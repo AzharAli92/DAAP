@@ -8,5 +8,4 @@ The results will be shown on customized consle at bottom of the screen which con
 calss name and its path. 
 At the end the total count of detected anti-patterns will be shown.
 You can rest the preferences using reset button in order to choose new Android project.
-
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/uiUDZkv" data-context="false" ><a href="//imgur.com/a/uiUDZkv"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+![Screenshot](http://imgur.com/a/uiUDZkv)
